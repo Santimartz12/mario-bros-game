@@ -1,1 +1,5 @@
-mario_game/Library
+mario_game/Library/
+mario_game/Temp/
+mario_game/Obj/
+mario_game/Build/
+mario_game/Logs/
