@@ -383,6 +383,7 @@
 "Assets/Personajes/Control Personaje/ThirdPersonController/Scripts/ThirdPersonController.cs"
 "Assets/Personajes/Control Personaje/TutorialInfo/Scripts/Readme.cs"
 "Assets/Scenes/Zololgo/OrbitZoomPanCamera/Scripts/OrbitZoomPanCamera.cs"
+"Assets/Scripts/SphereGrowth.cs"
 -langversion:9.0
 /deterministic
 /optimize+
